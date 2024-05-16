@@ -8,3 +8,5 @@ Web-Socket Development
 240516_1624_glory : docker 컨테이너 내 열린 go webserver에서 터미널로 텍스트 입력할때 local에 있는 go 웹서버 cmd 창에도 출력하기
 
 240516_1634_glory : docker 프로젝트명 수정 및 양방향 기능도 구현
+
+240516_1807_glory : 도커 내부끼리 go로 웹서버 열어서 한쪽에서는 topic들을 publish해주고 반대면에서는 subscribe해서 log로 저장하는 작업 수행
